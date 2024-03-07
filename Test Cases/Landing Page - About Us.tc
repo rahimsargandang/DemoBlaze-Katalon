@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>About Us Modal displayed</description>
+   <name>Landing Page - About Us</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9be29720-8e9a-4d26-8917-eac362f8f997</testCaseGuid>
+</TestCaseEntity>

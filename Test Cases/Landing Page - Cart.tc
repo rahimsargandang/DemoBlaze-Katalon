@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cart Page displayed</description>
+   <name>Landing Page - Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c506814-8759-470a-aba5-e8fc8daf7141</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Contact Modal displayed</description>
+   <name>Landing Page - Contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1efb84c2-e401-4810-8c81-ceb2bcbb6a5c</testCaseGuid>
+</TestCaseEntity>

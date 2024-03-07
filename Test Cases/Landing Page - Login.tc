@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Modal displayed</description>
+   <name>Landing Page - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51723a02-d3bf-4ca1-ab20-c3e2ad00ede6</testCaseGuid>
+</TestCaseEntity>
